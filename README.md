@@ -59,7 +59,7 @@ iPhone 捷徑  ──(POST JSON)──▶  Google Apps Script  ──▶  Google
 
 ### 3. 安裝捷徑
 
-1. 開啟捷徑分享連結：`（iCloud 連結）`
+1. 開啟捷徑分享連結：`https://www.icloud.com/shortcuts/bef0f0a2c1ee459ab9a55f6b0f1cbc95`
 2. 安裝時會詢問：
    - **網頁應用程式網址**：貼上步驟 2 的網址
 3. 打開捷徑，把成員名單改成你們自己的名字
